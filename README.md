@@ -1,9 +1,11 @@
 To run this project mvn -DskipTests clean jetty:run
 
-<img width="1424" height="688" alt="image" src="https://github.com/user-attachments/assets/c698c5a6-6bcc-4f0a-a83a-c305da06785b" />
+<img width="919" height="686" alt="image" src="https://github.com/user-attachments/assets/ae5f5fbe-14f2-4fb6-b8a3-0474972bfc02" />
 
-<img width="1422" height="572" alt="image" src="https://github.com/user-attachments/assets/341eacf5-7b70-4289-9cdf-fb169db13d63" />
+<img width="1414" height="506" alt="image" src="https://github.com/user-attachments/assets/687f39a1-77fa-4292-880c-067caa531c46" />
 
-<img width="1443" height="713" alt="image" src="https://github.com/user-attachments/assets/d17077f7-262e-402a-94bb-7187c6c64a78" />
+<img width="1410" height="508" alt="image" src="https://github.com/user-attachments/assets/846f8eb6-223e-47a1-a72b-9bc193c07541" />
 
-<img width="1466" height="572" alt="image" src="https://github.com/user-attachments/assets/a555c86e-48c8-4812-b031-78ed414f1e45" />
+<img width="1398" height="582" alt="image" src="https://github.com/user-attachments/assets/7df3ab17-004d-472e-932a-513212ea09b1" />
+
+<img width="1355" height="490" alt="image" src="https://github.com/user-attachments/assets/b7eda530-16a6-41eb-a130-89e45d576573" />
