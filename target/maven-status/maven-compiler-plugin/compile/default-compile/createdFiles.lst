@@ -1,0 +1,15 @@
+com/magazineluiza/estoque/filter/EncodingFilter.class
+com/magazineluiza/estoque/servlet/DashboardServlet.class
+com/magazineluiza/estoque/filter/AuthFilter.class
+com/magazineluiza/estoque/model/MovimentoEstoque.class
+com/magazineluiza/estoque/servlet/ProdutoServlet.class
+com/magazineluiza/estoque/servlet/LoginServlet.class
+com/magazineluiza/estoque/repository/Database.class
+com/magazineluiza/estoque/model/MovimentoEstoque$Tipo.class
+com/magazineluiza/estoque/repository/SQLite.class
+com/magazineluiza/estoque/config/AppBootstrapListener.class
+com/magazineluiza/estoque/model/Produto.class
+com/magazineluiza/estoque/servlet/MovimentoServlet.class
+com/magazineluiza/estoque/servlet/CategoriaServlet.class
+com/magazineluiza/estoque/model/Categoria.class
+com/magazineluiza/estoque/servlet/LogoutServlet.class

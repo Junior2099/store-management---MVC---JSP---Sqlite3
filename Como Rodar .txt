@@ -1,0 +1,4 @@
+mvn -DskipTests clean jetty:run
+
+
+certifique-se de ter no computador o javac e sqlite3 

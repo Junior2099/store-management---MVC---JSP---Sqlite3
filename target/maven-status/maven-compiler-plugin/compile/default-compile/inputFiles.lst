@@ -1,0 +1,14 @@
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/config/AppBootstrapListener.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/repository/Database.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/servlet/MovimentoServlet.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/servlet/ProdutoServlet.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/servlet/CategoriaServlet.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/model/Produto.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/servlet/LoginServlet.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/servlet/LogoutServlet.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/filter/EncodingFilter.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/repository/SQLite.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/model/Categoria.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/filter/AuthFilter.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/servlet/DashboardServlet.java
+/home/zorin/Documentos/dev/src/main/java/com/magazineluiza/estoque/model/MovimentoEstoque.java
