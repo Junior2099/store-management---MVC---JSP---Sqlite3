@@ -1,0 +1,10 @@
+com\paraisografica\dao\UsuarioDAO.class
+com\paraisografica\servlet\DashboardServlet.class
+com\paraisografica\dao\MaterialDAO.class
+com\paraisografica\servlet\LogoutServlet.class
+com\paraisografica\model\Material.class
+com\paraisografica\model\Usuario.class
+com\paraisografica\servlet\AuthFilter.class
+com\paraisografica\util\DatabaseConnection.class
+com\paraisografica\servlet\LoginServlet.class
+com\paraisografica\servlet\MaterialServlet.class
