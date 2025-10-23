@@ -218,7 +218,7 @@ Os arquivos CSS estão em `src/main/webapp/assets/css/` e podem ser personalizad
 
 ## Licença
 
-Este projeto foi desenvolvido para fins educacionais e de demonstração.
+Este projeto foi desenvolvido para fins educacionais (projeto integrador) e também para utilização própria.
 
 ## Suporte
 
