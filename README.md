@@ -1,5 +1,7 @@
 # Sistema de Gestão de Materiais - Paraíso Gráfica Rápida
 
+# Apresentação Via Youtube: https://www.youtube.com/watch?v=-0u6qRPT_kE
+
 Sistema web desenvolvido em Java JSP para gerenciar materiais de uma gráfica, utilizando o template Gentelella e banco de dados SQLite.
 
 ## Características
